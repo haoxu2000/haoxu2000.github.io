@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2020 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://haoxu2000.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Nov 2020 11:31:32 +0800</lastBuildDate><atom:link href="https://haoxu2000.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Product1</title>
+      <link>https://haoxu2000.github.io/docs/product/product1/</link>
+      <pubDate>Wed, 11 Nov 2020 11:31:32 +0800</pubDate>
+      
+      <guid>https://haoxu2000.github.io/docs/product/product1/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
